@@ -9,5 +9,6 @@ This project implements a **Fraud Detection system** using Machine Learning mode
 - Class imbalance handled using SMOTE.
 - Evaluation metrics: Confusion Matrix, Classification Report, ROC Curve, Feature Importance.
 
-## Folder Structure
+
+
 
